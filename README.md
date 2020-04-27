@@ -1,4 +1,4 @@
-# probot-hello
+# probot-hello.  [![Build Status](https://travis-ci.com/sp2728/WEB1066-probot-hello.svg?branch=master)](https://travis-ci.com/sp2728/WEB1066-probot-hello)
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
